@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="28dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Smart Keyboard"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+    <Button
+        android:id="@+id/btnEnableKeyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Keyboard Enable karo"
+        android:layout_marginBottom="12dp" />
+    <Button
+        android:id="@+id/btnSwitchKeyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Smart Keyboard Select karo" />
+</LinearLayout>
