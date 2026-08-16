@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52764468856",
+    "project_id": "smartkeyboard-dfd2d",
+    "storage_bucket": "smartkeyboard-dfd2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52764468856:android:7b7d60a58aad453d4eef8d",
+        "android_client_info": {
+          "package_name": "com.smartkeyboard.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7jtSJcpiJKTUe_U82RiVHD5Vb3ZZmTSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
